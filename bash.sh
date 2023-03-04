@@ -1,1 +1,0 @@
-jq '.results.versions[]' http://localhost:3000/index.php?game=java&software=paper&function=recent
